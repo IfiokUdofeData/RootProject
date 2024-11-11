@@ -19,6 +19,7 @@ var Snake = (function () {
 
   var trail = [];
   var tail = INITIAL_TAIL;
+  
 
   var reward = 0;
   var points = 0;
